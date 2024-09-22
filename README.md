@@ -26,6 +26,7 @@
 * Lot of debug codes/configuration Samsung added are removed.
 * Added [wireguard](https://www.wireguard.com/) driver, an open-source VPN driver in-kernel
 * Added [KernelSU](https://kernelsu.org/)
+* upstream ?
 
 ## How To Build
 
